@@ -5,7 +5,7 @@ import javafx.stage.Stage;
 /**
  * Created by tkanchanawanchai6403 on 2/20/2017.
  *
- * Show and Demonstrate how to use printf
+ * Shows and Demonstrates how to use printf
  */
 public class StringDemo extends Application {
 
